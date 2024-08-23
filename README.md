@@ -1,2 +1,2 @@
 # Alisa595.github.io
-УЧебник для github для всех
+Учбник для github для всех
